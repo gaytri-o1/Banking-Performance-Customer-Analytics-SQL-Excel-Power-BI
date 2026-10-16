@@ -1,0 +1,2 @@
+# Banking-Performance-Customer-Analytics-SQL-Excel-Power-BI
+Banking Performance &amp; Customer Analytics project analyzes loan distribution, customer demographics, branch performance, interest, and default rates using SQL, Excel, Power BI, and Tableau. Developed interactive dashboards to visualize banking trends, track KPIs, identify business insights, and support data-driven financial decision-making.
